@@ -8,6 +8,8 @@
 
 ## Technologies
 * React.js
+* Redux
+* Google Firebase (Authentication & Firestore)
 * JSON
 
 ## Website
